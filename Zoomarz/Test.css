@@ -1,5 +1,6 @@
 /* Testing */
 
-#brn_news_search_submit {
+#brn_news_search_submit, #brn_news_display-more {
     background-color: red;
 }
+
